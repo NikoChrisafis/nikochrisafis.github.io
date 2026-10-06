@@ -1,7 +1,7 @@
-# Nicholas G. Chrisafis
-### Production Manager | Manufacturing Engineer | CNC Programmer | Technical Lead
+# Nicholas Chrisafis
+### Production Supervisor | Manufacturing Engineer | CNC Programmer | Technical Lead
 
-Hewitt, NJ 07421 | (201)-367-8050 | [nikochrisafis@gmail.com](mailto:nikochrisafis@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/niko-g-chrisafis)
+Passaic County, NJ | (973) 440-9025 | [nikochrisafis@gmail.com](mailto:nikochrisafis@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/niko-g-chrisafis)
 
 ---
 
@@ -21,7 +21,7 @@ Results-driven Manufacturing Professional, Production Manager, and Technical Lea
 ## Professional Experience
 
 ### CNC Machinist / Process Improvement & Production Lead
-**Savit Corp.** — Rockaway, NJ | *April 2022 – Present*
+**Savit Corp.** — Rockaway, NJ | *April 2022 – September 2025*
 * Own end-to-end production flow from material scheduling through final assembly, ensuring strict alignment with aggressive project timelines and launch calendars.
 * Develop and maintain tracking protocols (WIP and status reports) to monitor production velocity, anticipate potential bottlenecks, and implement proactive corrective actions.
 * Implement and maintain rigorous 5S standards across the shop floor to improve organization, safety, and workflow velocity.
